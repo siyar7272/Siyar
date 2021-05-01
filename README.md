@@ -1,2 +1,0 @@
-# Siyar
-bu benim depom
